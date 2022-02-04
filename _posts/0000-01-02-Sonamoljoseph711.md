@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi, I'm Sonamol Joseph
+Hey, I'm Sonamol Joseph
 Use the left arrow to go back!
